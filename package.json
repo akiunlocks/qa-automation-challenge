@@ -11,7 +11,7 @@
   "author": "Javier Perez",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^23.5.0",
+    "jest": "^29.3.1",
     "jest-puppeteer": "^3.3.1",
     "puppeteer": "^1.7.0"
   },
